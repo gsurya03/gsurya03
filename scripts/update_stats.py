@@ -110,6 +110,6 @@ prv = [r for r in repos if r["isPrivate"]]
 block = "**Public**<br>\n" + " · ".join(f"`{r['name']}`" for r in pub) + "\n\n"
 block += "**Private** 🔒<br>\n" + " · ".join(f"`{r['name']}`" for r in prv) + "\n"
 md = open("README.md").read()
-md = re.sub(r"<!--REPOS:START-->.*?<!--REPOS:END-->", f"<!--REPOS:START-->\n{block}<!--REPOS:END-->", md, flags=re.S)
+md = re.sub(r"<!--REPOS:START-->.*?<!--REPOS:END-->", f"<!--REPOS:START-->\n\n{block}\n<!--REPOS:END-->", md, flags=re.S)
 open("README.md", "w").write(md)
 print(f"{login}: {len(repos)} repos, {commits} commits")
