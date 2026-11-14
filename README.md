@@ -4,6 +4,6 @@
 `gsurya03`
 
 **Private** 🔒<br>
-`jane_doe` · `Dissension` · `log_X` · `Macallan`
+`Macallan` · `jane_doe` · `Dissension` · `log_X`
 
 <!--REPOS:END--> </details> <p align="center"><a href="https://www.instagram.com/lucid_onion/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=black" /><a href="https://twitter.com/gsurya__"><img src="https://img.shields.io/badge/X%2FTwitter-black?logo=x&style=flat&logoColor=white" /></a> <a href="mailto:suryagautam0012@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a> </p>
