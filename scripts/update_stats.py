@@ -51,7 +51,7 @@ for y in years:
 # ---------- last-year calendar ----------
 cal = gql("""{viewer{contributionsCollection{contributionCalendar{totalContributions
     weeks{contributionDays{contributionLevel date}}}}}}""")["viewer"]["contributionsCollection"]["contributionCalendar"]
-LV = {"NONE":0,"FIRST_QUARTER":1,"SECOND_QUARTER":2,"THIRD_QUARTER":3,"FOURTH_QUARTER":4}
+LV = {"NONE":0,"FIRST_QUARTILE":1,"SECOND_QUARTILE":2,"THIRD_QUARTILE":3,"FOURTH_QUARTILE":4}
 
 stars = sum(r["stargazerCount"] for r in repos)
 fmt = lambda n: f"{n:,}"
