@@ -384,6 +384,7 @@ text{fill:#e6edf3}.mut{fill:#8b949e}.bg{fill:#0d1117;stroke:#30363d}
 <rect x="760" y="134" width="11" height="11" rx="2" class="l0"/>
 <rect x="760" y="148" width="11" height="11" rx="2" class="l0"/>
 <rect x="760" y="162" width="11" height="11" rx="2" class="l0"/>
+<rect x="760" y="176" width="11" height="11" rx="2" class="l0"/>
 <text x="32" y="252" font-size="12" class="mut">languages · all repositories</text>
 <rect x="32.0" y="264" width="677.7" height="8" fill="#3b82f6"/>
 <rect x="709.7" y="264" width="34.1" height="8" fill="#22c55e"/>
