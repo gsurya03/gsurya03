@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Surya Gautam </h1> <p align="center"> <sub>Software Developer &nbsp;·&nbsp; Lalitpur, Nepal &nbsp;</sub> </p> <p align="center"> <img src="./stats.svg" alt="GitHub stats" width="100%" /> </p> <details> <summary><b>Repositories</b> (public + private)</summary> <br> <!--REPOS:START-->
 
 **Public**<br>
-`gsurya03`
+`Portfolio` · `gsurya03`
 
 **Private** 🔒<br>
 `Macallan` · `jane_doe` · `Dissension` · `log_X`
